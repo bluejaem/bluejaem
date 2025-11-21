@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Guilherme
+#  João Guilherme
 
 **`Desenvolvedor Back-End e WEB`**
 
@@ -23,7 +23,7 @@ Me chamo João Guilherme Machado de Melo, tenho 18 anos e sou natural de Aracaju
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -94,7 +94,7 @@ Me chamo João Guilherme Machado de Melo, tenho 18 anos e sou natural de Aracaju
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p>
   <img 
