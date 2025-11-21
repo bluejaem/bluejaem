@@ -98,17 +98,17 @@ Me chamo João Guilherme Machado de Melo, tenho 18 anos e sou natural de Aracaju
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <img 
         width="100%" 
         src="https://github-readme-stats.vercel.app/api?username=bluejaem&show_icons=true&theme=tokyonight&locale=pt-br" 
         alt="GitHub Stats" 
       />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%">
       <img 
         width="100%" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluejaem&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluejaem&theme=tokyonight&custom_title=Tecnologias&langs_count=6" 
         alt="Top Langs" 
       />
     </td>
