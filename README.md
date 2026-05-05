@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End e WEB`**
 
-Me chamo João Guilherme Machado de Melo, tenho 18 anos e sou natural de Aracaju, Sergipe. Concluí o ensino médio no Instituto Dom Fernando Gomes. Atualmente, curso Matemática Aplicada e Computacional na UFS e Ciência da Computação pela Uninter. Sou apaixonado por tecnologia e, muitas vezes, crio códigos “do absoluto nada” apenas para me distrair — e é justamente nessas horas que percebo o quanto desejo me tornar um grande desenvolvedor no futuro. Estou sempre explorando ideias, experimentando soluções e buscando evoluir como profissional na área.
+Me chamo João Guilherme Machado de Melo, tenho 19 anos e sou natural de Aracaju, Sergipe. Concluí o ensino médio no Instituto Dom Fernando Gomes. Atualmente, curso Matemática Aplicada e Computacional na UFS e Ciência da Computação pela Uninter. Sou apaixonado por tecnologia e, muitas vezes, crio códigos “do absoluto nada” apenas para me distrair — e é justamente nessas horas que percebo o quanto desejo me tornar um grande desenvolvedor no futuro. Estou sempre explorando ideias, experimentando soluções e buscando evoluir como profissional na área.
 
 <p align="left">
     <a href="https://github.com/bluejaem?tab=repositories&sort=stargazers">
