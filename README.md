@@ -7,10 +7,10 @@ Estudante de Engenharia da Computação na UNINTER, Gestão da Tecnologia da Inf
 
 <p align="center">
     <a href="https://github.com/bluejaem?tab=repositories&sort=stargazers">
-        <img width="49%" height="60" alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bluejaem?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+        <img height="45" alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bluejaem?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
     </a>
     <a href="https://github.com/bluejaem?tab=followers">
-        <img width="49%" height="60" alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/bluejaem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+        <img height="45" alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/bluejaem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
 </p>
 
