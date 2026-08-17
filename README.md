@@ -27,14 +27,13 @@ Estudante de Engenharia da Computação na UNINTER, Gestão da Tecnologia da Inf
 ### Featured Project
 
 **[Meu LIFE OS](https://meu-life-os.vercel.app/)** | [Repositório](https://github.com/bluejaem/Meu-LIFE-OS)  
-Sistema de produtividade e organização pessoal desenvolvido para centralizar rotinas, estudos, projetos, metas e acompanhamento de produtividade em uma única aplicação web.
-
+Personal productivity and organization system developed to centralize routines, studies, projects, goals, and productivity tracking in a single web application.
 
 ---
 
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bluejaem&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bluejaem&theme=tokyonight&locale=pt-br&custom_title=Principais_Linguagens&langs_count=4" alt="Top Langs" />
+  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bluejaem&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bluejaem&theme=tokyonight&locale=pt-br&custom_title=Linguagens_Principais&langs_count=4" alt="Principais Linguagens" />
 </p>
