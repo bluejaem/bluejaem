@@ -1,8 +1,9 @@
 # João Guilherme
 
-**`Computer Engineering | Developer in Training`**
-
+**`Computer Engineering | Developer in Training | Python • Linux • Cloud • Infrastructure | Technology & Software Development`**
+<p align="justify">
 Estudante de Engenharia da Computação na UNINTER, Gestão da Tecnologia da Informação na e Técnico em Informática Estácio, com foco no desenvolvimento de uma base sólida em programação, sistemas, infraestrutura e tecnologia. Sou desenvolvedor em formação, atualmente aprofundando meus conhecimentos em Python, desenvolvimento web, Linux, infraestrutura, redes e fundamentos de Cloud, buscando aplicar na prática os conhecimentos adquiridos ao longo da minha formação acadêmica e por meio de projetos próprios. Tenho interesse em desenvolvimento de software, automação, sistemas operacionais, infraestrutura e no funcionamento dos diferentes componentes que integram o ecossistema tecnológico. Meu GitHub reúne projetos, estudos, experimentos e aplicações práticas que representam minha evolução técnica, meu processo de aprendizado e minha busca contínua por transformar conhecimento teórico em soluções funcionais e desenvolver, progressivamente, projetos mais completos e relevantes para a área de tecnologia.
+</p>
 
 <p align="left">
     <a href="https://github.com/bluejaem?tab=repositories&sort=stargazers">
