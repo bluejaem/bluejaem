@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- BANNER CIBERNÉTICO NÉON COM SUBTÍTULO CLARO E LEGÍVEL -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=07020d&height=220&section=header&text=JOÃO%20GUILHERME&fontSize=48&fontAlignY=38&fontColor=07020d&stroke=c084fc&strokeWidth=0.9&desc=DATA%20SCIENTIST%20%7C%20BI%20ENGINEER%20%7C%20APPLIED%20MATH&descFontSize=19&descAlignY=58&descColor=07020d&animation=fadeIn&v=6" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=07020d&height=220&section=header&text=JOÃO%20GUILHERME&fontSize=48&fontAlignY=38&fontColor=07020d&stroke=a855f7&strokeWidth=1.2&desc=DATA%20SCIENTIST%20%7C%20BI%20ENGINEER%20%7C%20APPLIED%20MATH&descFontSize=16&descAlignY=58&descColor=c084fc&animation=fadeIn&v=7" width="100%" alt="Header Banner" />
   <!-- DIGITAÇÃO AUTOMÁTICA EM TEMPO REAL -->
   <a href="https://joaoguilherme-data.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Full+Lifecycle+Analytics+%7C+DAX+%E2%80%A2+SQL+%E2%80%A2+Python;Microsoft+Certified%3A+Power+BI+Data+Analyst+(PL-300);Data+Science+%26+Applied+Mathematics+Researcher;Building+Autonomous+Local-First+Data+Systems" alt="Typing SVG" />
