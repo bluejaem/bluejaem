@@ -19,7 +19,6 @@
       <img src="https://img.shields.io/badge/DIRECT_CONTACT-9333ea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_PROJECTS-07020d?style=for-the-badge&logo=statuspal&logoColor=22c55e" alt="Status" />
-    <img src="https://img.shields.io/badge/LOCATION-SERGIPE%2C_BR-07020d?style=for-the-badge&logo=google-maps&logoColor=c084fc" alt="Location" />
   </p>
 
 </div>
@@ -29,14 +28,14 @@
 
 Estudante multidisciplinar focado em unir o rigor quantitativo e algorítmico à entrega de soluções práticas de negócio, cobrindo o ciclo completo dos dados: desde a ingestão, limpeza e modelagem dimensional até à formulação de métricas contextuais, consultas analíticas com SQL e relatórios executivos em Power BI.
 
-* 🎯 **Foco:** Ciência de Dados, Business Intelligence, Engenharia de Dados e Computação.
-* 📜 **Credencial Primária:** Microsoft Certified: Power BI Data Analyst Associate (**PL-300**).
-* 📍 **Localização:** Sergipe, Brasil.
-* 🌐 **Portfólio Oficial:** [joaoguilherme-data.vercel.app](https://joaoguilherme-data.vercel.app)
+* **Foco:** Ciência de Dados, Business Intelligence, Engenharia de Dados e Computação.
+* **Credencial Primária:** Microsoft Certified: Power BI Data Analyst Associate (**PL-300**).
+* **Localização:** Sergipe, Brasil.
+* **Portfólio Oficial:** [joaoguilherme-data.vercel.app](https://joaoguilherme-data.vercel.app)
 
 ---
 
-### 🏆 Certificações & Formação de Destaque
+### Certificações & Formação de Destaque
 
 <table>
   <tr>
@@ -67,7 +66,7 @@ Estudante multidisciplinar focado em unir o rigor quantitativo e algorítmico à
 
 ---
 
-### 🛰️ Stacks & Tecnologias Dinâmicas
+### Stacks & Tecnologias Dinâmicas
 
 <div align="center">
   <!-- BADGES DINÂMICAS COM ÍCONES OFICIAIS -->
@@ -88,7 +87,7 @@ Estudante multidisciplinar focado em unir o rigor quantitativo e algorítmico à
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Engenharia & Arquitetura | Stack | Acesso |
 | :--- | :--- | :--- | :--- |
@@ -99,7 +98,7 @@ Estudante multidisciplinar focado em unir o rigor quantitativo e algorítmico à
 
 ---
 
-### 📊 Telemetria do GitHub
+### Telemetria do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bluejaem&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Estatísticas do GitHub" />
