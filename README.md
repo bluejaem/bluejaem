@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- BANNER CIBERNÉTICO NÉON COM O NOME VAZADO / CONTORNO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=07020d&height=200&section=header&text=JOÃO%20GUILHERME&fontSize=48&fontAlignY=40&desc=DATA%20SCIENTIST%20%7C%20BI%20ENGINEER%20%7C%20APPLIED%20MATH&descFontSize=14&descAlignY=58&animation=fadeIn&stroke=a855f7&strokeWidth=1.5" width="100%" alt="Header Banner" />
-
-  <br />
+  <!-- BANNER CIBERNÉTICO NÉON COM SUBTÍTULO CLARO E LEGÍVEL -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=07020d&height=210&section=header&text=JOÃO%20GUILHERME&fontSize=48&fontAlignY=40&desc=DATA%20SCIENTIST%20%7C%20BI%20ENGINEER%20%7C%20APPLIED%20MATH&descFontSize=15&descAlignY=60&descColor=c084fc&animation=fadeIn&stroke=a855f7&strokeWidth=1.5" width="100%" alt="Header Banner" />
 
   <!-- DIGITAÇÃO AUTOMÁTICA EM TEMPO REAL -->
   <a href="https://joaoguilherme-data.vercel.app">
