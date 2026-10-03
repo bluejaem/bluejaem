@@ -7,11 +7,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Data+Science+%26+Business+Intelligence;Microsoft+Certified%3A+Power+BI+Data+Analyst+(PL-300);Applied+Mathematics+%26+Computer+Engineering;Full+Lifecycle+Analytics+%7C+DAX+%E2%80%A2+SQL+%E2%80%A2+Python" alt="Typing SVG" />
   </a>
 
-  <!-- STATUS EM TEMPO REAL & TELEMETRIA -->
+  <!-- STATUS EM TEMPO REAL & TELEMETRIA ESTÁVEL -->
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_PROJECTS-07020d?style=for-the-badge&logo=statuspal&logoColor=22c55e" alt="Status" />
     <img src="https://img.shields.io/badge/ANALYTICS_CORE-ACTIVE-07020d?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Core" />
-    <img src="https://komarev.com/ghpvc/?username=bluejaem&label=ACCESS_COUNT&color=9333ea&style=for-the-badge" alt="Views" />
+    <img src="https://img.shields.io/badge/LOCATION-SERGIPE%2C_BR-07020d?style=for-the-badge&logo=google-maps&logoColor=c084fc" alt="Location" />
   </p>
 
   <!-- LINKS PRINCIPAIS -->
