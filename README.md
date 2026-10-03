@@ -27,22 +27,6 @@
 
 </div>
 
-  <!-- LINKS PRINCIPAIS -->
-  <p align="center">
-    <a href="https://joaoguilherme-data.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFÓLIO-07020d?style=for-the-badge&logo=vercel&logoColor=c084fc" alt="Portfólio" />
-    </a>
-    <a href="https://www.linkedin.com/in/joaoguilhermemachadodemelo" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:machadodemelojoaoguilherme@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-9333ea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
-
----
 
 ### ⚡ Sobre Mim
 
