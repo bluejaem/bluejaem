@@ -24,7 +24,7 @@
 </div>
 
 
-### ⚡ Sobre Mim
+### Sobre Mim
 
 Estudante multidisciplinar focado em unir o rigor quantitativo e algorítmico à entrega de soluções práticas de negócio, cobrindo o ciclo completo dos dados: desde a ingestão, limpeza e modelagem dimensional até à formulação de métricas contextuais, consultas analíticas com SQL e relatórios executivos em Power BI.
 
