@@ -30,15 +30,6 @@
     <img src="https://img.shields.io/badge/LOCATION-SERGIPE%2C_BR-07020d?style=for-the-badge&logo=google-maps&logoColor=c084fc" alt="Location" />
   </p>
 
-</div>
-
-  <!-- STATUS EM TEMPO REAL & TELEMETRIA -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_PROJECTS-07020d?style=for-the-badge&logo=statuspal&logoColor=22c55e" alt="Status" />
-    <img src="https://img.shields.io/badge/ANALYTICS_CORE-ACTIVE-07020d?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Core" />
-    <img src="https://komarev.com/ghpvc/?username=bluejaem&label=ACCESS_COUNT&color=9333ea&style=for-the-badge" alt="Views" />
-  </p>
-
   <!-- LINKS PRINCIPAIS -->
   <p align="center">
     <a href="https://joaoguilherme-data.vercel.app" target="_blank">
